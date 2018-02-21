@@ -146,19 +146,43 @@ Cho'Gath
 
 Corki
 
+  top: 2
+  jung: 2
+  mid: 5
+  adc: 4
+  sup: 1
+
+Darius
+
+  top: 5
+  jung: 3
+  mid: 3
+  adc: 2
+  sup: 2
+
+Diana
+
   top:
   jung:
   mid:
   adc:
   sup:
 
-Darius
-
-Diana
-
 Dr. Mundo
 
+  top:
+  jung:
+  mid:
+  adc:
+  sup:
+
 Draven
+
+  top:
+  jung:
+  mid:
+  adc:
+  sup:
 
 Ekko
 

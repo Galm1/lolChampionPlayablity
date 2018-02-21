@@ -1,12 +1,12 @@
 TOP
 
-  5. Aatrox, Camille, Cho'Gath,
+  5. Aatrox, Camille, Cho'Gath, Darius,
 
   4. Akali, Amumu, Cassiopeia,
 
   3. Ahri, Alistar, Annie, Aurelion Sol, Azir, Blitzcrank, Brand, Braum,
 
-  2. Anivia, Ashe, Bard, Caitlyn,
+  2. Anivia, Ashe, Bard, Caitlyn, Corki,
 
   1.
 
@@ -17,20 +17,20 @@ JUNG
 
   4. Aatrox, Akali, Camille, Cho'Gath,
 
-  3. Alistar, Aurelion Sol, Bard
+  3. Alistar, Aurelion Sol, Bard, Darius,
 
-  2. Ahri, Annie, Ashe, Azir, Blitzcrank, Brand, Braum, Caitlyn, Cassiopeia,
+  2. Ahri, Annie, Ashe, Azir, Blitzcrank, Brand, Braum, Caitlyn, Cassiopeia, Corki,
 
   1. Anivia,
 
 
 MID
 
-  5. Ahri, Anivia, Annie, Aurelion Sol, Azir, Brand, Cassiopeia,
+  5. Ahri, Anivia, Annie, Aurelion Sol, Azir, Brand, Cassiopeia, Corki,
 
   4. Akali, Camille, Cho'Gath,
 
-  3. Aatrox, Amumu, Ashe, Blitzcrank, Caitlyn,
+  3. Aatrox, Amumu, Ashe, Blitzcrank, Caitlyn, Darius,
 
   2. Bard,
 
@@ -40,11 +40,11 @@ ADC
 
   5. Ashe, Caitlyn,
 
-  4.
+  4. Corki,
 
   3. Azir, Bard, Camille,
 
-  2. Aatrox, Ahri, Akali, Aurelion Sol, Brand, Cassiopeia,
+  2. Aatrox, Ahri, Akali, Aurelion Sol, Brand, Cassiopeia, Darius,
 
   1. Amumu, Anivia, Annie, Blitzcrank, Cho'Gath,
 
@@ -58,6 +58,6 @@ SUP
 
   3. Amumu, Anivia, Annie, Aurelion Sol, Brand, Camille,
 
-  2. Aatrox, Ahri, Ashe, Azir, Cassiopeia, Cho'Gath, 
+  2. Aatrox, Ahri, Ashe, Azir, Cassiopeia, Cho'Gath, Darius
 
-  1. Akali, Caitlyn
+  1. Akali, Caitlyn, Corki,
