@@ -1,0 +1,63 @@
+TOP
+
+  5. Aatrox, Camille, Cho'Gath,
+
+  4. Akali, Amumu, Cassiopeia,
+
+  3. Ahri, Alistar, Annie, Aurelion Sol, Azir, Blitzcrank, Brand, Braum,
+
+  2. Anivia, Ashe, Bard, Caitlyn,
+
+  1.
+
+
+JUNG
+
+  5. Amumu,
+
+  4. Aatrox, Akali, Camille, Cho'Gath,
+
+  3. Alistar, Aurelion Sol, Bard
+
+  2. Ahri, Annie, Ashe, Azir, Blitzcrank, Brand, Braum, Caitlyn, Cassiopeia,
+
+  1. Anivia,
+
+
+MID
+
+  5. Ahri, Anivia, Annie, Aurelion Sol, Azir, Brand, Cassiopeia,
+
+  4. Akali, Camille, Cho'Gath,
+
+  3. Aatrox, Amumu, Ashe, Blitzcrank, Caitlyn,
+
+  2. Bard,
+
+  1. Alistar, Braum,
+
+ADC
+
+  5. Ashe, Caitlyn,
+
+  4.
+
+  3. Azir, Bard, Camille,
+
+  2. Aatrox, Ahri, Akali, Aurelion Sol, Brand, Cassiopeia,
+
+  1. Amumu, Anivia, Annie, Blitzcrank, Cho'Gath,
+
+
+
+SUP
+
+  5. Alistar, Bard, Blitzcrank, Braum,
+
+  4.
+
+  3. Amumu, Anivia, Annie, Aurelion Sol, Brand, Camille,
+
+  2. Aatrox, Ahri, Ashe, Azir, Cassiopeia, Cho'Gath, 
+
+  1. Akali, Caitlyn

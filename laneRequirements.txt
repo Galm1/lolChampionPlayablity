@@ -1,0 +1,42 @@
+TOP
+	1. Tanky/sustain
+	2. Cc
+	3. Split
+	4. Carry potential
+	5. Frontline
+
+
+
+JUNG
+	1. Cc
+	2. Obj control
+	3. Gank potential
+	4. Carry potential
+	5. Sustain/tanky
+
+
+
+MID
+	1. Champion Dmg
+	2. Carry Potential
+	3. Lane priority
+	4. Wave clear
+	5. Gank potential
+
+
+
+ADC
+ 	1. Ranged
+	2. AA Dmg
+	3. Structure dmg
+	4. Carry potential
+	5. Backline
+
+
+
+SUP
+	1. Tanky/protect
+	2. Cc
+	3. gank potential
+	4. Direct support abilities
+	5. Peel

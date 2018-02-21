@@ -1,0 +1,393 @@
+Aatrox
+
+	top:5
+	jung:4
+	mid:3
+	adc:3
+	sup:2
+
+Ahri
+
+	top:3
+	jung:2
+	mid:5
+	adc:2
+	sup:2
+
+Akali
+
+  top: 4
+  jung: 4
+  mid: 4
+  adc: 2
+  sup: 1
+
+Alistar
+
+  top: 3
+  jung: 3
+  mid: 1
+  adc: 0
+  sup: 5
+
+Amumu
+
+  top: 4
+  jung: 5
+  mid: 3
+  adc: 1
+  sup: 3
+
+
+Anivia
+
+  top: 2
+  jung: 1
+  mid: 5
+  adc: 1
+  sup: 3
+
+
+Annie
+
+  top: 3
+  jung: 2
+  mid: 5
+  adc: 1
+  sup: 3
+
+Ashe
+
+  top: 2
+  jung: 2
+  mid: 3
+  adc: 5
+  sup: 2
+
+Aurelion Sol
+
+  top: 3
+  jung: 3
+  mid: 5
+  adc: 2
+  sup: 3
+
+Azir
+
+  top: 3
+  jung: 2
+  mid: 5
+  adc: 3
+  sup: 2
+
+Bard
+
+  top: 2
+  jung: 3
+  mid: 2
+  adc: 3
+  sup: 5
+
+Blitzcrank
+
+  top: 3
+  jung: 2
+  mid: 3
+  adc: 1
+  sup: 5
+
+Brand
+
+  top: 3
+  jung: 2
+  mid: 5
+  adc: 2
+  sup: 3
+
+Braum
+
+  top: 3
+  jung: 2
+  mid: 1
+  adc: 0
+  sup: 5
+
+Caitlyn
+
+  top: 2
+  jung: 2
+  mid: 3
+  adc: 5
+  sup: 1
+
+Camille
+
+  top: 5
+  jung: 4
+  mid: 4
+  adc: 3
+  sup: 3
+
+Cassiopeia
+
+  top: 4
+  jung: 2
+  mid: 5
+  adc: 2
+  sup: 2
+
+Cho'Gath
+
+  top: 5
+  jung: 4
+  mid: 4
+  adc: 1
+  sup: 2
+
+Corki
+
+  top:
+  jung:
+  mid:
+  adc:
+  sup:
+
+Darius
+
+Diana
+
+Dr. Mundo
+
+Draven
+
+Ekko
+
+Elise
+
+Evelynn
+
+Ezreal
+
+Fiddlesticks
+
+Fiora
+
+Fizz
+
+Galio
+
+Gangplank
+
+Garen
+
+Gnar
+
+Gragas
+
+Graves
+
+Hecarim
+
+Heimerdinger
+
+Illaoi
+
+Irelia
+
+Ivern
+
+Janna
+
+Jarvan IV
+
+Jax
+
+Jayce
+
+Jhin
+
+Jinx
+
+Kalista
+
+Karma
+
+Karthus
+
+Kassadin
+
+Katarina
+
+Kayle
+
+Kayn
+
+Kennen
+
+Kha'Zix
+
+Kindred
+
+Kled
+
+Kog'Maw
+
+LeBlanc
+
+Lee Sin
+
+Leona
+
+Lissandra
+
+Lucian
+
+Lulu
+
+Lux
+
+Malphite
+
+Malzahar
+
+Maokai
+
+Master Yi
+
+Miss Fortune
+
+Mordekaiser
+
+Morgana
+
+Nami
+
+Nasus
+
+Nautilus
+
+Nidalee
+
+Nocturne
+
+Nunu
+
+Olaf
+
+Orianna
+
+Ornn
+
+Pantheon
+
+Poppy
+
+Quinn
+
+Rakan
+
+Rammus
+
+Rek'Sai
+
+Renekton
+
+Rengar
+
+Riven
+
+Rumble
+
+Ryze
+
+Sejuani
+
+Shaco
+
+Shen
+
+Shyvana
+
+Singed
+
+Sion
+
+Sivir
+
+Skarner
+
+Sona
+
+Soraka
+
+Swain
+
+Syndra
+
+Tahm Kench
+
+Taliyah
+
+Talon
+
+Taric
+
+Teemo
+
+Thresh
+
+Tristana
+
+Trundle
+
+Tryndamere
+
+Twisted Fate
+
+Twitch
+
+Udyr
+
+Urgot
+
+Varus
+
+Vayne
+
+Veigar
+
+Vel'Koz
+
+Vi
+
+Viktor
+
+Vladimir
+
+Volibear
+
+Warwick
+
+Wukong
+
+Xayah
+
+Xerath
+
+Xin Zhao
+
+Yasuo
+
+Yorick
+
+Zac
+
+Zed
+
+Ziggs
+
+Zilean
+
+Zoe
+
+Zyra
