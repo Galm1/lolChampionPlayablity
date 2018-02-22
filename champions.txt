@@ -162,41 +162,83 @@ Darius
 
 Diana
 
-  top:
-  jung:
-  mid:
-  adc:
-  sup:
+  top: 3
+  jung: 3
+  mid: 5
+  adc: 1
+  sup: 2
 
 Dr. Mundo
 
-  top:
-  jung:
-  mid:
-  adc:
-  sup:
+  top: 5
+  jung: 4
+  mid: 3
+  adc: 1
+  sup: 2
 
 Draven
 
+  top: 3
+  jung: 2
+  mid: 3
+  adc: 5
+  sup: 1
+
+Ekko
+
+  top: 4
+  jung: 4
+  mid: 5
+  adc: 1
+  sup: 2
+
+Elise
+
+  top: 2
+  jung: 5
+  mid: 3
+  adc: 2
+  sup: 2
+
+Evelynn
+
+  top: 2
+  jung: 5
+  mid: 3
+  adc: 1
+  sup: 2
+
+Ezreal
+
+  top: 2
+  jung: 3
+  mid: 3
+  adc: 5
+  sup: 1
+
+Fiddlesticks
+
+  top: 3
+  jung: 5
+  mid: 3
+  adc: 2
+  sup: 2
+
+Fiora
+
   top:
   jung:
   mid:
   adc:
   sup:
 
-Ekko
-
-Elise
-
-Evelynn
-
-Ezreal
-
-Fiddlesticks
-
-Fiora
-
 Fizz
+
+  top:
+  jung:
+  mid:
+  adc:
+  sup:
 
 Galio
 

@@ -1,36 +1,36 @@
 TOP
 
-  5. Aatrox, Camille, Cho'Gath, Darius,
+  5. Aatrox, Camille, Cho'Gath, Darius, Dr. Mundo,
 
-  4. Akali, Amumu, Cassiopeia,
+  4. Akali, Amumu, Cassiopeia, Ekko,
 
-  3. Ahri, Alistar, Annie, Aurelion Sol, Azir, Blitzcrank, Brand, Braum,
+  3. Ahri, Alistar, Annie, Aurelion Sol, Azir, Blitzcrank, Brand, Braum, Diana, Draven, Fiddlesticks,
 
-  2. Anivia, Ashe, Bard, Caitlyn, Corki,
+  2. Anivia, Ashe, Bard, Caitlyn, Corki, Elise, Evelynn, Ezreal,
 
   1.
 
 
 JUNG
 
-  5. Amumu,
+  5. Amumu, Elise, Evelynn, Fiddlesticks,
 
-  4. Aatrox, Akali, Camille, Cho'Gath,
+  4. Aatrox, Akali, Camille, Cho'Gath, Dr. Mundo, Ekko,
 
-  3. Alistar, Aurelion Sol, Bard, Darius,
+  3. Alistar, Aurelion Sol, Bard, Darius, Diana, Ezreal,
 
-  2. Ahri, Annie, Ashe, Azir, Blitzcrank, Brand, Braum, Caitlyn, Cassiopeia, Corki,
+  2. Ahri, Annie, Ashe, Azir, Blitzcrank, Brand, Braum, Caitlyn, Cassiopeia, Corki, Draven,
 
   1. Anivia,
 
 
 MID
 
-  5. Ahri, Anivia, Annie, Aurelion Sol, Azir, Brand, Cassiopeia, Corki,
+  5. Ahri, Anivia, Annie, Aurelion Sol, Azir, Brand, Cassiopeia, Corki, Diana, Ekko,
 
   4. Akali, Camille, Cho'Gath,
 
-  3. Aatrox, Amumu, Ashe, Blitzcrank, Caitlyn, Darius,
+  3. Aatrox, Amumu, Ashe, Blitzcrank, Caitlyn, Darius, Dr. Mundo, Draven, Elise, Evelynn, Ezreal, Fiddlesticks,
 
   2. Bard,
 
@@ -38,15 +38,15 @@ MID
 
 ADC
 
-  5. Ashe, Caitlyn,
+  5. Ashe, Caitlyn, Draven, Ezreal,
 
   4. Corki,
 
   3. Azir, Bard, Camille,
 
-  2. Aatrox, Ahri, Akali, Aurelion Sol, Brand, Cassiopeia, Darius,
+  2. Aatrox, Ahri, Akali, Aurelion Sol, Brand, Cassiopeia, Darius, Elise, Fiddlesticks,
 
-  1. Amumu, Anivia, Annie, Blitzcrank, Cho'Gath,
+  1. Amumu, Anivia, Annie, Blitzcrank, Cho'Gath, Diana, Dr. Mundo, Ekko, Evelynn,
 
 
 
@@ -58,6 +58,6 @@ SUP
 
   3. Amumu, Anivia, Annie, Aurelion Sol, Brand, Camille,
 
-  2. Aatrox, Ahri, Ashe, Azir, Cassiopeia, Cho'Gath, Darius
+  2. Aatrox, Ahri, Ashe, Azir, Cassiopeia, Cho'Gath, Darius, Diana, Dr. Mundo, Ekko, Elise, Evelynn, Fiddlesticks, 
 
-  1. Akali, Caitlyn, Corki,
+  1. Akali, Caitlyn, Corki, Draven, Ezreal,
