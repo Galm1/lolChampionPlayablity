@@ -226,53 +226,155 @@ Fiddlesticks
 
 Fiora
 
-  top:
-  jung:
-  mid:
-  adc:
-  sup:
+  top: 5
+  jung: 2
+  mid: 3
+  adc: 2
+  sup: 1
 
 Fizz
 
+  top: 3
+  jung: 3
+  mid: 5
+  adc: 1
+  sup: 1
+
+Galio
+
+  top: 4
+  jung: 3
+  mid: 5
+  adc: 1
+  sup: 3
+
+Gangplank
+
+  top: 5
+  jung: 2
+  mid: 4
+  adc: 2
+  sup: 1
+
+Garen
+
+  top: 5
+  jung: 3
+  mid: 2
+  adc: 1
+  sup: 2
+
+Gnar
+
+  top: 5
+  jung: 3
+  mid: 2
+  adc: 3
+  sup: 3
+
+Gragas
+
+  top: 4
+  jung: 5
+  mid: 4
+  adc: 1
+  sup: 3
+
+Graves
+
+  top: 3
+  jung: 5
+  mid: 3
+  adc: 3
+  sup: 1
+
+Hecarim
+
+  top: 4
+  jung: 5
+  mid: 2
+  adc: 1
+  sup: 3
+
+Heimerdinger
+
+  top: 3
+  jung: 2
+  mid: 5
+  adc: 2
+  sup: 2
+
+Illaoi
+
+  top: 5
+  jung: 3
+  mid: 3
+  adc: 2
+  sup: 3
+
+Irelia
+
+  top: 5
+  jung: 4
+  mid: 3
+  adc: 2
+  sup: 3
+
+Ivern
+
+  top: 2
+  jung: 5
+  mid: 1
+  adc: 1
+  sup: 3
+
+Janna
+
   top:
   jung:
   mid:
   adc:
   sup:
 
-Galio
-
-Gangplank
-
-Garen
-
-Gnar
-
-Gragas
-
-Graves
-
-Hecarim
-
-Heimerdinger
-
-Illaoi
-
-Irelia
-
-Ivern
-
-Janna
-
 Jarvan IV
+
+  top:
+  jung:
+  mid:
+  adc:
+  sup:
 
 Jax
 
+  top:
+  jung:
+  mid:
+  adc:
+  sup:
+
 Jayce
+
+  top:
+  jung:
+  mid:
+  adc:
+  sup:
 
 Jhin
 
+  top:
+  jung:
+  mid:
+  adc:
+  sup:
+
 Jinx
+
+  top:
+  jung:
+  mid:
+  adc:
+  sup:
 
 Kalista
 

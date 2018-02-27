@@ -1,40 +1,40 @@
 TOP
 
-  5. Aatrox, Camille, Cho'Gath, Darius, Dr. Mundo,
+  5. Aatrox, Camille, Cho'Gath, Darius, Dr. Mundo, Gangplank, Garen, Gnar, Illaoi, Irelia,
 
-  4. Akali, Amumu, Cassiopeia, Ekko,
+  4. Akali, Amumu, Cassiopeia, Ekko, Gragas, Hecarim,
 
-  3. Ahri, Alistar, Annie, Aurelion Sol, Azir, Blitzcrank, Brand, Braum, Diana, Draven, Fiddlesticks,
+  3. Ahri, Alistar, Annie, Aurelion Sol, Azir, Blitzcrank, Brand, Braum, Diana, Draven, Fiddlesticks, Fizz, Graves, Heimerdinger,
 
-  2. Anivia, Ashe, Bard, Caitlyn, Corki, Elise, Evelynn, Ezreal,
+  2. Anivia, Ashe, Bard, Caitlyn, Corki, Elise, Evelynn, Ezreal, Ivern,
 
   1.
 
 
 JUNG
 
-  5. Amumu, Elise, Evelynn, Fiddlesticks,
+  5. Amumu, Elise, Evelynn, Fiddlesticks, Gragas, Graves, Hecarim, Ivern,
 
-  4. Aatrox, Akali, Camille, Cho'Gath, Dr. Mundo, Ekko,
+  4. Aatrox, Akali, Camille, Cho'Gath, Dr. Mundo, Ekko, Irelia,
 
-  3. Alistar, Aurelion Sol, Bard, Darius, Diana, Ezreal,
+  3. Alistar, Aurelion Sol, Bard, Darius, Diana, Ezreal, Fizz, Garen, Gnar, Illaoi,
 
-  2. Ahri, Annie, Ashe, Azir, Blitzcrank, Brand, Braum, Caitlyn, Cassiopeia, Corki, Draven,
+  2. Ahri, Annie, Ashe, Azir, Blitzcrank, Brand, Braum, Caitlyn, Cassiopeia, Corki, Draven, Gangplank, Heimerdinger,
 
   1. Anivia,
 
 
 MID
 
-  5. Ahri, Anivia, Annie, Aurelion Sol, Azir, Brand, Cassiopeia, Corki, Diana, Ekko,
+  5. Ahri, Anivia, Annie, Aurelion Sol, Azir, Brand, Cassiopeia, Corki, Diana, Ekko, Fizz, Heimerdinger,
 
-  4. Akali, Camille, Cho'Gath,
+  4. Akali, Camille, Cho'Gath, Gangplank, Gragas,
 
-  3. Aatrox, Amumu, Ashe, Blitzcrank, Caitlyn, Darius, Dr. Mundo, Draven, Elise, Evelynn, Ezreal, Fiddlesticks,
+  3. Aatrox, Amumu, Ashe, Blitzcrank, Caitlyn, Darius, Dr. Mundo, Draven, Elise, Evelynn, Ezreal, Fiddlesticks, Graves, Illaoi, Irelia,
 
-  2. Bard,
+  2. Bard, Garen, Gnar, Hecarim,
 
-  1. Alistar, Braum,
+  1. Alistar, Braum, Ivern,
 
 ADC
 
@@ -42,11 +42,11 @@ ADC
 
   4. Corki,
 
-  3. Azir, Bard, Camille,
+  3. Azir, Bard, Camille, Gnar, Graves,
 
-  2. Aatrox, Ahri, Akali, Aurelion Sol, Brand, Cassiopeia, Darius, Elise, Fiddlesticks,
+  2. Aatrox, Ahri, Akali, Aurelion Sol, Brand, Cassiopeia, Darius, Elise, Fiddlesticks, Gangplank, Heimerdinger, Illaoi, Irelia,
 
-  1. Amumu, Anivia, Annie, Blitzcrank, Cho'Gath, Diana, Dr. Mundo, Ekko, Evelynn,
+  1. Amumu, Anivia, Annie, Blitzcrank, Cho'Gath, Diana, Dr. Mundo, Ekko, Evelynn, Fizz, Garen, Gragas, Hecarim, Ivern,
 
 
 
@@ -56,8 +56,8 @@ SUP
 
   4.
 
-  3. Amumu, Anivia, Annie, Aurelion Sol, Brand, Camille,
+  3. Amumu, Anivia, Annie, Aurelion Sol, Brand, Camille, Gnar, Gragas, Hecarim, Illaoi, Irelia, Ivern,
 
-  2. Aatrox, Ahri, Ashe, Azir, Cassiopeia, Cho'Gath, Darius, Diana, Dr. Mundo, Ekko, Elise, Evelynn, Fiddlesticks, 
+  2. Aatrox, Ahri, Ashe, Azir, Cassiopeia, Cho'Gath, Darius, Diana, Dr. Mundo, Ekko, Elise, Evelynn, Fiddlesticks, Garen, Heimerdinger,
 
-  1. Akali, Caitlyn, Corki, Draven, Ezreal,
+  1. Akali, Caitlyn, Corki, Draven, Ezreal, Fizz, Gangplank, Graves,
