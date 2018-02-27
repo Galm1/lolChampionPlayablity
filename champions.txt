@@ -330,43 +330,43 @@ Ivern
 
 Janna
 
-  top:
-  jung:
-  mid:
-  adc:
-  sup:
+  top: 2
+  jung: 1
+  mid: 1
+  adc: 1
+  sup: 5
 
 Jarvan IV
 
-  top:
-  jung:
-  mid:
-  adc:
-  sup:
+  top: 4
+  jung: 5
+  mid: 3
+  adc: 2
+  sup: 3
 
 Jax
 
-  top:
-  jung:
-  mid:
-  adc:
-  sup:
+  top: 5
+  jung: 4
+  mid: 3
+  adc: 2
+  sup: 2
 
 Jayce
 
-  top:
-  jung:
-  mid:
-  adc:
-  sup:
+  top: 4
+  jung: 3
+  mid: 5
+  adc: 3
+  sup: 2
 
 Jhin
 
-  top:
-  jung:
-  mid:
-  adc:
-  sup:
+  top: 2
+  jung: 2
+  mid: 3
+  adc: 5
+  sup: 2
 
 Jinx
 
